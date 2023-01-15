@@ -1,0 +1,159 @@
+.Contenedor-secundario {
+    position: relative;
+    top: 300px;
+    background: linear-gradient(#fefefe,  #888888)
+    
+  
+}
+
+
+.titulo-principal {
+    padding-left: 30px;
+    clear: left;
+}
+
+.titulo {
+    text-align: center;
+    font-size: 22px;
+    margin: 30px 0;
+}
+
+.Contenedor-infor,
+.diferenciales {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.Nuestra-ubicacion p {
+    text-align: center;
+    font-size: 22px;
+    margin: 25px;
+
+
+}
+.mapa {
+    position: relative;
+    left: 300px;
+    
+
+}
+
+
+body {
+    font-family: 'Inter', sans-serif;
+    background: linear-gradient(#fefefe,  #888888)
+
+}
+.Nuestra-ubicacion {
+    width:100%;
+  
+
+    background: linear-gradient(#fefefe,  #888888)
+
+}
+.items {
+    line-height: 1.5;
+}
+
+.video {
+    position: relative;
+    left: 210px;
+    margin: 10px;
+    top: 100px;
+    height: 280px;
+    width: 500px;
+    
+
+}
+.video1 {
+    position: relative;
+    
+    margin: 10px;
+    top: 40px;
+    height: 500px;
+    
+
+    
+    
+
+}
+
+p {
+    font-size: 15px;
+    margin: 10px;
+    text-align: justify;
+
+}
+
+.Contenedor-infor em {
+    font-style: italic;
+}
+
+.img-text {
+    width: 120px;
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+.img-banner {
+    width: 100%;
+}
+
+span {
+    font-weight: bold;
+
+}
+
+con-text {
+    font-style: italic;
+}
+
+ul {
+    display: inline-block;
+    vertical-align:text-top;
+    width: 30%;
+    margin-right: 15%;
+    
+
+
+}
+
+.imagenDiferenciales {
+    position: absolute;
+    width: 400px;
+    left: 280px;
+   
+}
+
+.diferenciales {
+    position: relative;
+    
+    padding: 30px;
+    
+
+
+
+}
+.items:before{
+    content:"★"
+}
+.Contenedor-informacion {
+    border-inline: 30px;
+
+}
+
+.pie-de-pagina2 {
+    position: absolute;
+    top: 2100px;
+
+   
+
+}
+
+.diferencial {
+    position: relative;
+    left: 100px;
+    margin: 20px;
+    
+}
+
